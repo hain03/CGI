@@ -1,2 +1,2 @@
-# cgi
-new project for cgi source code management
+# CGI
+new project for CGI source code management
